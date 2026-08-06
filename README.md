@@ -12,6 +12,7 @@ Cisco Packet Tracer, a network simulation tool that lets you build and test comp
 |---|---|---|
 | Practical 01 | Connecting two devices via a network wire | Practical_1.pkt, Practical1_Notes.pdf |
 | Practical 02 | Simulation of ARP (Address Resolution Protocol) | Practical_2.pkt, Practical2_Notes.pdf |
+| Practical 03 | Switching, VLANs, and Inter VLAN Routing (Router on a Stick) | Practical_3.pkt, Practical3_Notes.pdf |
 
 More practicals will be added here as the semester goes on.
 
@@ -26,6 +27,9 @@ Basics-of-Computer-Networks/
 ├── Practical-02-ARP/
 │   ├── Practical_2.pkt
 │   └── Practical2_Notes.pdf
+├── Practical-03-VLANs-InterVLAN-Routing/
+│   ├── Practical_3.pkt
+│   └── Practical3_Notes.pdf
 ```
 
 ## How to Open the .pkt Files
