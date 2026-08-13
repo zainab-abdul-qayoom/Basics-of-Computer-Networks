@@ -10,24 +10,28 @@ Cisco Packet Tracer
 
 | Practical | Topic | Files |
 |---|---|---|
-| Practical 01 | Connecting two devices directly with a cross over cable and IP addressing | practical01.pkt, Practical_01_Notes.pdf |
-| Practical 02 | Simulating ARP, how a device finds another device's MAC address before pinging it | practical02_ARP.pkt, Practical_02_Notes.pdf |
-| Practical 04 | Connecting two separate networks using a router, with default gateways and basic routing | practical04.pkt, Practical_04_Notes.pdf |
+| Practical 01 | Connecting two devices directly with a cross over cable and IP addressing | Practical 1.pkt, Practical1_Easiest_Notes.pdf |
+| Practical 02 | Simulating ARP, how a device finds another device's MAC address before pinging it | Practical 2.pkt, Practical2_Easiest_Notes.pdf |
+| Practical 03 | VLANs and Inter VLAN Routing | Practical 3.pkt, Practical3_Easiest_Notes.pdf |
+| Practical 04 | Connecting two separate networks using a router, with default gateways and basic routing | practical 4.pkt, Practical4_Easiest_Notes.pdf |
 
 ## Folder Structure
 
 ```
-Basics-Of-Computer-Networks/
+Basics-of-Computer-Networks/
 ├── README.md
-├── Practical-01-Direct-Connection/
-│   ├── practical01.pkt
-│   └── Practical_01_Notes.pdf
+├── Practical-01-Connecting-Two-Devices/
+│   ├── Practical 1.pkt
+│   └── Practical1_Easiest_Notes.pdf
 ├── Practical-02-ARP/
-│   ├── practical02_ARP.pkt
-│   └── Practical_02_Notes.pdf
+│   ├── Practical 2.pkt
+│   └── Practical2_Easiest_Notes.pdf
+├── Practical-03-VLANs-InterVLAN-Routing/
+│   ├── Practical 3.pkt
+│   └── Practical3_Easiest_Notes.pdf
 ├── Practical-04-Router-Two-Networks/
-│   ├── practical04.pkt
-│   └── Practical_04_Notes.pdf
+│   ├── practical 4.pkt
+│   └── Practical4_Easiest_Notes.pdf
 ```
 
 ## About
