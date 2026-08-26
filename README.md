@@ -14,6 +14,7 @@ Cisco Packet Tracer
 | Practical 02 | Simulating ARP, how a device finds another device's MAC address before pinging it | Practical 2.pkt, Practical2_Easiest_Notes.pdf |
 | Practical 03 | VLANs and Inter VLAN Routing | Practical 3.pkt, Practical3_Easiest_Notes.pdf |
 | Practical 04 | Connecting two separate networks using a router, with default gateways and basic routing | practical 4.pkt, Practical4_Easiest_Notes.pdf |
+| Practical 05 | DHCP configuration, on a router and on a generic server, so PCs get their IP address automatically | practical 5.pkt, Practical5_Easiest_Notes.pdf |
 
 ## Folder Structure
 
@@ -32,6 +33,9 @@ Basics-of-Computer-Networks/
 ├── Practical-04-Router-Two-Networks/
 │   ├── practical 4.pkt
 │   └── Practical4_Easiest_Notes.pdf
+├── Practical-05-DHCP-Configuration/
+│   ├── practical 5.pkt
+│   └── Practical5_Easiest_Notes.pdf
 ```
 
 ## About
